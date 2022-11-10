@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @carsondenison
-- 👀 I’m interested in modern methods in deep RL.
-- 🌱 I’m currently learning how to implement proximal policy optimization from scratch using pytorch.
-- 💞️ I’m looking to collaborate on scaling law and AI safety research.
+- 👋 Hi, I’m @carsondenison. Eleven months ago I learned about the existential risks from AI. I immediately quit my job doing computational fluid dynamics to focus entirely on ML. I got a job at Google in the spring and I've been there skilling up since.
+- 👀 I’m interested in making large language models safer.
+- 💞️ I’m looking to collaborate on AI safety research.
 - 📫 How to reach me: please feel free to reach out my name at gmail with any questions.
